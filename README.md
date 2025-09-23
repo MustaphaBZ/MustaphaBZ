@@ -10,10 +10,10 @@ Soy desarrollador con experiencia en programación, bases de datos y frameworks,
 ## 🚀 Tecnologías y Herramientas
 
 - **Lenguajes:** Java, Python, C#, JavaScript  
-- **Frameworks:** ASP.NET, Angular, React Native, Unity  
+- **Frameworks:** ASP.NET, Angular, React, Unity  
 - **Bases de datos:** MySQL, SQL Server, MongoDB  
 - **Big Data & Cloud:** Hadoop, Spark, AWS, Google Cloud Platform, Databricks, Kubernetes  
-- **IA & Machine Learning:** Redes Neuronales, Transformers, RAG con LangGraph  
+- **IA & Machine Learning:** Redes Neuronales, Transformers, RAG, Agentes  
 - **Herramientas:** Git/GitHub, Docker, Power BI  
 
 ---
@@ -52,7 +52,7 @@ Incluye uso de **LangGraph** para orquestación de agentes.
 ---
 
 ## 📫 Contacto
-- 📧 [mustaphabouleili8@gmail.com](mailto:mustaphabouleili8@gmail.com)  
+- 📧 [mustaphabouleili8@gmail.com]
 - 💼 [LinkedIn](https://linkedin.com/in/mustapha-bouleili-znasni)
 - 🐙 [GitHub](https://github.com/MustaphaBZ)
 
