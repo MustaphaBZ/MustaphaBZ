@@ -45,9 +45,9 @@ Incluye uso de **LangGraph** para orquestación de agentes.
 ---
 
 ## 🌍 Idiomas
-- Español y Catalán (C1)  
-- Inglés (B1)  
-- Árabe (A2)  
+- Español y Catalán – Nivel avanzado
+- Inglés – Nivel básico
+- Árabe – Nivel básico
 
 ---
 
